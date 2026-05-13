@@ -1,5 +1,5 @@
 // --- Globals & Constants ---
-const GEMINI_API_KEY = "AIzaSyBE5ix4UL05HnIp5xreP5OkoALNIdQajbg";
+CONFIG.GEMINI_API_KEY
 
 // --- Google Docs & Auth Functions ---
 const createGoogleDoc = (title, summary, token, sendResponse) => {

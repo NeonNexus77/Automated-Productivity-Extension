@@ -17,6 +17,7 @@
     "https://generativelanguage.googleapis.com/*"
   ],
   "background": {
+    "scripts": ["config.js", "background.js"],
     "service_worker": "background.js"
   },
   "action": {
